@@ -30,3 +30,11 @@ Usage
 Customization
 
 You can customize the honeypot by modifying the honeypot.py script. For example, you can change the port number or add additional logging functionality.
+Contributing
+
+    Fork the repository
+    Create a new branch (git checkout -b feature)
+    Make your changes
+    Commit your changes (git commit -am 'Add new feature')
+    Push to the branch (git push origin feature)
+    Create a new Pull Request
